@@ -3,9 +3,24 @@
 <body>
 
 <h1>Devansh Sachdeva</h1>
+<h2>Author Info:</h2>
+<p>Devansh, or Dev, is currently studying Computer Science at Durham University and spends his life on LMC projects. He was born in India but calls Switzerland his home as he has been living there for 10 years. He is a cricket fan and loves a good game of pool.</p>
 
 
+<h2>GitHub and Linkedin:</h2>
+<p><ul>
+<li> <a href="https://github.com/Devanshsa">GitHub </a> </li>
+<li> <a href="https://www.linkedin.com/in/devansh-sachdeva-54684b127/"> Linkedin </a></li>
+</ul></p>
+
+
+<h2>Positive Contributions of Computing in Society</h2>
+<p><ol>
+<li><b>Expanding communication network</b></li>
+<li><b>Predicted and avoiding catastophe</b></li>
+<li><b>Making education open to everyone</b></li>
+<li><b>Accelerating healthcare and awareness</b></li>
+</ol></p>
 
 </body>
 </html>
-
